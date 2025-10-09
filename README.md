@@ -1,3 +1,5 @@
+Object Character Recognition Projects:
+
 📸 Text Extraction: Extracting general text from various types of images with complex backgrounds and layouts.
 
 🌐 Website Capture Solving: Handling different kinds of image-based captures encountered on multiple websites using OCR-based automation.
